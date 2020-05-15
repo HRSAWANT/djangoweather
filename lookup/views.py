@@ -1,4 +1,4 @@
-# This is my voews.py file
+# This is my views.py file
 from django.shortcuts import render
 
 def home(request):
